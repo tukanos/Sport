@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"named:" : "DataCurator 09/16/2008 16:42" },
+	"instance" : {
+		"absoluteFilename" : "dkh 10/11/2011 10:34",
+		"appendStream" : "DataCurator 09/16/2008 16:42",
+		"asAbsoluteFilename" : "dkh 09/14/2013 09:13",
+		"asString" : "DataCurator 09/16/2008 16:42",
+		"construct:" : "dkh 09/14/2013 09:24",
+		"contentsOfEntireFile" : "jupiter 03/01/2015 12:50",
+		"delete" : "DaleHenrichs 01/28/2010 16:15",
+		"directory" : "dkh 09/14/2013 09:18",
+		"exists" : "dkh 10/06/2011 11:24",
+		"filename" : "dkh 09/14/2013 09:25",
+		"filenameString" : "DataCurator 09/16/2008 16:42",
+		"head" : "dkh 09/14/2013 09:20",
+		"isAbsolutePath" : "dkh 10/06/2011 11:42",
+		"lastSeparatorIndex" : "dkh 09/14/2013 09:22",
+		"named:" : "DataCurator 09/16/2008 16:42",
+		"readStream" : "DaleHenrichs 08/18/2010 17:21",
+		"separator" : "dkh 09/14/2013 09:23",
+		"writeStream" : "DaleHenrichs 08/18/2010 17:21" } }
