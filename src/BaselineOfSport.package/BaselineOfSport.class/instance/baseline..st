@@ -2,8 +2,8 @@ baseline
 baseline: spec
   <baseline>
   spec
-    for: #( #'gemstone' #'gemstone64' )
+    for: #(#'gemstone' #'gemstone64')
     do: [ 
       spec
-        package: 'Sport' ;
+        package: 'Sport' with: [ spec file: 'Sport.v3' ];
         yourself ]
