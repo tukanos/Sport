@@ -1,3 +1,0 @@
-services
-asString
-	^self filenameString
